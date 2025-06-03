@@ -1,6 +1,4 @@
- Here is the same guide formatted for a `README.md` file:
-
-````markdown
+ ````markdown
 # Python Virtual Environment Setup on Kali Linux
 
 This guide explains how to install and use `virtualenv` on Kali Linux to manage isolated Python environments for your projects.
